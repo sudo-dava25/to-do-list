@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="add_task">Tambah Tugas</string>
+    <string name="task_name_hint">Nama tugas</string>
+    <string name="priority">Prioritas</string>
+    <string name="priority_high">Tinggi</string>
+    <string name="priority_medium">Sedang</string>
+    <string name="priority_low">Rendah</string>
+    <string name="btn_add">Tambah</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="btn_delete">Hapus</string>
+</resources>
